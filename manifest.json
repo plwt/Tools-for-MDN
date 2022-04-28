@@ -3,6 +3,8 @@
   "version": "0.2",
   
   "name": "Tools for MDN",
+  "version": "0.1",
+  "description": "Opens your MDN Plus collection in a sidebar, allows you to search MDN Web docs from the address bar or from a context menu item (select text first).",
   "permissions": [
 		"activeTab",     
 		"contextMenus"
@@ -16,7 +18,7 @@
     "default_icon": {
       "192": "icons/icon32.png"
     },
-    "default_title" : "MDN Plus Collection",
+    "default_title" : "MDN Plus Collections",
     "default_panel": "sidebar.html"
   },
 
@@ -26,7 +28,7 @@
             	"keyword": "@MDN",
 		"search_url": "https://developer.mozilla.org/en-US/search?q={searchTerms}"
 		}
-	}
+	},
 
     "background": {
     "scripts": ["sidebar.js", "wordseach.js"]
