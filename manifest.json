@@ -18,7 +18,8 @@
       "keyword": "@test",
 		  "search_url": "https://developer.mozilla.org/en-US/search?q={searchTerms}"
       }
-		
+   }
+   
     "background": {
     "scripts": ["shortcut.js", "stackoverflow.js", "ghcs.js"]
     },
