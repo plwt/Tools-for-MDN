@@ -12,7 +12,12 @@
     "48": "icons/icon48.png",
 	"96": "icons/icon96.png"
   },
-
+   "chrome_settings_overrides": {
+		  "search_provider": {
+		  "name": "MDN Web Docs",
+      "keyword": "@test",
+		  "search_url": "https://developer.mozilla.org/en-US/search?q={searchTerms}"
+		}
     "background": {
     "scripts": ["shortcut.js", "stackoverflow.js", "ghcs.js"]
 },
