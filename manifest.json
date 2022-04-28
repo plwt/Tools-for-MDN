@@ -1,7 +1,5 @@
 {
   "manifest_version": 2,
-  "version": "0.2",
-  
   "name": "Tools for MDN",
   "version": "0.1",
   "description": "Opens your MDN Plus collection in a sidebar, allows you to search MDN Web docs from the address bar or from a context menu item (select text first).",
