@@ -18,10 +18,10 @@
       "keyword": "@test",
 		  "search_url": "https://developer.mozilla.org/en-US/search?q={searchTerms}"
       }
-		}
+		
     "background": {
     "scripts": ["shortcut.js", "stackoverflow.js", "ghcs.js"]
-},
+    },
   
    "browser_action": {
 		"default_icon": "icons/icon32.png"
