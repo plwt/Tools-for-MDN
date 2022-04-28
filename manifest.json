@@ -31,7 +31,7 @@
 	},
 
     "background": {
-    "scripts": ["sidebar.js", "wordseach.js"]
+    "scripts": ["sidebar.js", "wordsearch.js"]
 },
   
    "browser_action": {
